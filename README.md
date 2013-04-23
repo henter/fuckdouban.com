@@ -1,4 +1,4 @@
 fuckduoban.com
 ==============
 
-www.fuckdouban.com 静态网站
+fuckdouban.com 静态网站
